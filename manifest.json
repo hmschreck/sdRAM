@@ -20,7 +20,7 @@
   "Author": "hmschreck",
   "CodePath": "mem.exe",
   "CodePathMac": "mem",
-  "Description": "View CPU temperatures",
+  "Description": "View RAM utilization",
   "Name": "RAM Utilization",
   "Icon": "pluginIcon", 
   "URL": "https://github.com/hmschreck/sdRAM",
