@@ -10,3 +10,6 @@ A simple RAM utilization plugin for the Elgato Stream Deck keypad.
 `go build -o mem.exe main.go` on Windows
 
 `go build -o mem main.go` on Mac
+
+# Pre-compiled
+Available in the releases
