@@ -24,7 +24,7 @@
   "Name": "RAM Utilization",
   "Icon": "pluginIcon", 
   "URL": "https://github.com/hmschreck/sdRAM",
-  "Version": "1.4",
+  "Version": "0.4",
   "OS": [
     {
         "Platform": "mac", 
